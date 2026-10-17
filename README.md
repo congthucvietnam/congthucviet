@@ -23,7 +23,7 @@
 | Phiên bản | Kênh | Định dạng tải về | Tải về |
 | :--- | :---: | :--- | :---: |
 | **v1.0.0 (Ổn định - 17/10/2026)** | `stable` | 📦 **File nén .ZIP** *(Khuyên dùng — Mở trực tiếp trên Windows không cần phần mềm phụ)*<br>⚡ **File .EXE cài trực tiếp** | [⬇️ Tải trên GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/latest)<br>🚀 [**Tải từ Google Drive ThayCoAI (Tốc độ cao)**](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
-| **v1.1.0-dev (Thử nghiệm - 17/10/2026)** | `dev` | 📦 **File nén .ZIP** / ⚡ **File .EXE** | [⚡ Tải bản Dev trên GitHub](https://github.com/congthucvietnam/congthucviet/releases) |
+| **v1.1.0-dev (Thử nghiệm - 17/10/2026)** | `dev` | 📦 **File nén .ZIP**<br>⚡ **File .EXE cài trực tiếp** | [⚡ Tải bản Dev trên GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/tag/v1.1.0-dev.20261017)<br>🚀 [**Tải từ Google Drive ThayCoAI**](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
 
 > 💡 **Mẹo tải về:** Để tránh trình duyệt Google Chrome hoặc Microsoft Edge hiển thị cảnh báo tệp thực thi, Thầy/Cô nên tải file nén **`.zip`**, sau đó nhấp đúp để mở và chạy file cài đặt!
 
@@ -33,7 +33,9 @@
 > 👉 **Bấm vào đây để mở Thư mục Google Drive tải bộ cài:**  
 > 🔗 **[https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing)**  
 > 
-> *(Thư mục bao gồm file nén `.zip` và file cài đặt `.exe` để Thầy/Cô lựa chọn tải về thuận tiện nhất)*
+> *(Thư mục bao gồm cả 2 phiên bản Stable và Dev, định dạng `.zip` và `.exe`)*:
+> - 🟢 **Bản Ổn định v1.0.0:** `Setup_CongThucViet_v1.0_Stable_17.10.2026.zip` | `Setup_CongThucViet_v1.0_Stable_17.10.2026.exe`
+> - 🟡 **Bản Thử nghiệm v1.1.0-dev:** `Setup_CongThucViet_v1.1_Dev_17.10.2026.zip` | `Setup_CongThucViet_v1.1_Dev_17.10.2026.exe`
 
 ---
 
