@@ -1,0 +1,60 @@
+name: "🐛 Báo lỗi phần mềm (Bug Report)"
+description: "Báo cáo lỗi gặp phải khi cài đặt, gõ công thức hoặc sử dụng Công Thức Việt"
+title: "[LỖI]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn Quý Thầy/Cô đã dành thời gian báo lỗi giúp hoàn thiện phần mềm Công Thức Việt!
+  - type: dropdown
+    id: channel
+    attributes:
+      label: Kênh phát hành đang sử dụng
+      options:
+        - "Bản Ổn định (Stable)"
+        - "Bản Phát triển (Dev/Beta)"
+        - "Chưa rõ"
+    validations:
+      required: true
+  - type: dropdown
+    id: word_version
+    attributes:
+      label: Phiên bản Microsoft Word đang dùng
+      options:
+        - "Office 365 (Word 365)"
+        - "Word 2021"
+        - "Word 2019"
+        - "Word 2016"
+        - "Word 2013"
+        - "Khác / Không rõ"
+    validations:
+      required: true
+  - type: dropdown
+    id: os_version
+    attributes:
+      label: Hệ điều hành Windows
+      options:
+        - "Windows 11 (64-bit)"
+        - "Windows 10 (64-bit)"
+        - "Windows 7 / 8"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Mô tả chi tiết lỗi gặp phải
+      description: "Nêu rõ các bước Thầy/Cô đã thực hiện và lỗi hiển thị như thế nào"
+      placeholder: "Ví dụ: Khi tôi gõ công thức tích phân và bấm chèn vào Word thì công thức bị méo / không gõ được tiếng Việt..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Kết quả mong muốn
+      placeholder: "Ví dụ: Công thức chèn vào Word phải hiển thị rõ nét chuẩn OLE 7.0..."
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Ảnh chụp màn hình hoặc Tệp đính kèm
+      description: "Thầy/Cô có thể kéo thả ảnh chụp màn hình bị lỗi hoặc file Word vào đây"

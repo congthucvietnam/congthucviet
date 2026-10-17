@@ -1,0 +1,35 @@
+name: "💡 Đề xuất tính năng mới (Feature Request)"
+description: "Đề xuất thêm ký hiệu mới, cải tiến thanh công cụ hoặc thêm tính năng tạo đề thi"
+title: "[ĐỀ XUẤT]: "
+labels: ["enhancement", "idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Mọi ý kiến đóng góp của Quý Thầy/Cô đều là động lực lớn để Công Thức Việt ngày càng hoàn thiện!
+  - type: dropdown
+    id: category
+    attributes:
+      label: Nhóm tính năng đề xuất
+      options:
+        - "Studio Tạo Đề Thi Trợ Lý AI"
+        - "Thanh Công Cụ / Ký Hiệu Toán Học Mới"
+        - "Ký Hiệu Vật Lý / Hóa Học / Sinh Học"
+        - "Chuyển Đổi Tài Liệu (Word / LaTeX / MathType)"
+        - "Giao Diện & Phím Tắt Soạn Thảo"
+        - "Khác"
+    validations:
+      required: true
+  - type: textarea
+    id: idea_description
+    attributes:
+      label: Ý tưởng đề xuất chi tiết
+      description: "Thầy/Cô mong muốn phần mềm có thêm tính năng gì để hỗ trợ việc soạn bài giảng?"
+      placeholder: "Ví dụ: Tôi muốn bổ sung thêm mẫu đề thi giữa kỳ môn Hóa học 11 theo đúng chuẩn ma trận GDPT 2018..."
+    validations:
+      required: true
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Lợi ích mang lại
+      placeholder: "Ví dụ: Giúp giáo viên tiết kiệm 30 phút mỗi khi làm đề thi..."

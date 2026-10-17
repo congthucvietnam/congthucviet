@@ -1,0 +1,25 @@
+{
+  "ten_de": "ĐỀ KIỂM TRA GIỮA HỌC KỲ I - TOÁN 12",
+  "nam_hoc": "2026 - 2027",
+  "thoi_gian_phut": 90,
+  "quy_chuan": "GDPT 2018",
+  "chu_de": "Khảo sát hàm số và ứng dụng đạo hàm",
+  "co_dap_an": true,
+  "cau_truc": {
+    "phan_1": {
+      "tieu_de": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án).",
+      "so_cau": 12,
+      "diem_moi_cau": 0.25
+    },
+    "phan_2": {
+      "tieu_de": "PHẦN II. Câu trắc nghiệm đúng sai (Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai).",
+      "so_cau": 4,
+      "diem_toi_da_moi_cau": 1.0
+    },
+    "phan_3": {
+      "tieu_de": "PHẦN III. Câu trắc nghiệm trả lời ngắn (Thí sinh trả lời từ câu 1 đến câu 6).",
+      "so_cau": 6,
+      "diem_moi_cau": 0.5
+    }
+  }
+}

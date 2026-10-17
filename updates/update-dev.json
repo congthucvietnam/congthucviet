@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "product": "CongThucViet",
+  "channel": "dev",
+  "version": "1.1.0-dev.20261017",
+  "version_display": "v1.1.0-dev (Bản Thử Nghiệm - 17/10/2026)",
+  "version_code": 10100,
+  "release_date": "2026-10-17T10:00:00Z",
+  "min_supported_word": "2013",
+  "min_supported_os": "Windows 10",
+  "installer": {
+    "filename": "Setup_CongThucViet_v1.1_Dev_17.10.2026.exe",
+    "size_bytes": 65432100,
+    "sha256": "4a7d3f2ab58448820c78a067885b2e95690bdfa3737ec38f7d9834220b336a18",
+    "authenticode_required": false,
+    "download_urls": [
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v1.1.0-dev.20261017/Setup_CongThucViet_v1.1_Dev_17.10.2026.exe"
+    ]
+  },
+  "rollout": {
+    "enabled": true,
+    "percentage": 100
+  },
+  "policy": {
+    "blocked_versions": [],
+    "mandatory": false
+  },
+  "changelog": {
+    "vi": [
+      "Phiên bản phát triển v1.1.0-dev thử nghiệm ngày 17/10/2026",
+      "Thử nghiệm Studio tạo đề AI thế hệ mới với cơ chế đính kèm đề cương",
+      "Thử nghiệm bộ phím tắt mở rộng và chuyển đổi 6 chiều Word-MathType-LaTeX",
+      "Dành riêng cho cộng đồng kiểm thử sớm trước khi đưa vào Stable"
+    ]
+  }
+}

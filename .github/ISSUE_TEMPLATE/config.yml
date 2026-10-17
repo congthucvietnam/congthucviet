@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Hỏi đáp & Chia sẻ kinh nghiệm giảng dạy
+    url: https://github.com/congthucvietnam/congthucviet/discussions
+    about: Thảo luận, hỏi cách gõ công thức hoặc chia sẻ mẹo dùng Word cùng các Thầy/Cô khác.
+  - name: 📝 Biểu mẫu Góp ý Nhanh (Google Form)
+    url: https://docs.google.com/forms/d/e/1FAIpQLSc8bcuPFICnYEwP4J45p8pYXs08-J9Gal9zYznLgJcZOirHqw/viewform
+    about: Gửi phản hồi hoặc góp ý riêng tư tới ban phát triển phần mềm.

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "product": "CongThucViet",
+  "channel": "stable",
+  "version": "1.0.0",
+  "version_display": "v1.0.0 (Bản Ổn Định - 17/10/2026)",
+  "version_code": 10000,
+  "release_date": "2026-10-17T10:00:00Z",
+  "min_supported_word": "2013",
+  "min_supported_os": "Windows 10",
+  "installer": {
+    "filename": "Setup_CongThucViet_v1.0_Stable_17.10.2026.exe",
+    "size_bytes": 65432100,
+    "sha256": "4a7d3f2ab58448820c78a067885b2e95690bdfa3737ec38f7d9834220b336a18",
+    "authenticode_required": false,
+    "download_urls": [
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.0/Setup_CongThucViet_v1.0_Stable_17.10.2026.exe"
+    ]
+  },
+  "rollout": {
+    "enabled": true,
+    "percentage": 100
+  },
+  "policy": {
+    "blocked_versions": [],
+    "mandatory": false
+  },
+  "changelog": {
+    "vi": [
+      "Phiên bản chính thức v1.0.0 ổn định ra mắt ngày 17/10/2026",
+      "Bổ sung Studio trợ lý AI tạo đề thi GDPT 2018 (Phần I, II, III, đáp án chi tiết)",
+      "Sửa lỗi gõ tiếng Việt UniKey và hỗ trợ chỉ số dưới _x thông minh",
+      "Nút Cập nhật và Góp ý trực tiếp trên Ribbon Word liên kết với GitHub & Google Form"
+    ]
+  }
+}
