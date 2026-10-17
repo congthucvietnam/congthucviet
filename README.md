@@ -20,15 +20,20 @@
 
 ## 📥 Tải Về Cài Đặt (Download)
 
-| Phiên bản | Kênh | Đối tượng | Tải về |
+| Phiên bản | Kênh | Định dạng tải về | Tải về |
 | :--- | :---: | :--- | :---: |
-| **v1.0.0 (Ổn định - 17/10/2026)** | `stable` | **Khuyên dùng cho tất cả Thầy/Cô** giảng dạy, in ấn tài liệu và làm đề kiểm tra hàng ngày. Đảm bảo độ tin cậy và an toàn tuyệt đối. | [⬇️ Tải Setup_CongThucViet_v1.0_Stable_17.10.2026.exe](https://github.com/congthucvietnam/congthucviet/releases/latest) |
-| **v1.1.0-dev (Thử nghiệm - 17/10/2026)** | `dev` | Dành cho Thầy/Cô muốn trải nghiệm sớm các tính năng đột phá (Studio tạo đề AI thế hệ mới, bộ phím tắt mở rộng...). | [⚡ Tải Setup_CongThucViet_v1.1_Dev_17.10.2026.exe](https://github.com/congthucvietnam/congthucviet/releases) |
+| **v1.0.0 (Ổn định - 17/10/2026)** | `stable` | 📦 **File nén .RAR** *(Khuyên dùng — Tránh trình duyệt chặn)*<br>📦 **File nén .ZIP** *(Mở trực tiếp trên Windows)*<br>⚡ **File .EXE cài trực tiếp** | [⬇️ Tải trên GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/latest)<br>🚀 [**Tải từ Google Drive ThayCoAI (Tốc độ cao)**](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
+| **v1.1.0-dev (Thử nghiệm - 17/10/2026)** | `dev` | 📦 **File nén .RAR** / ⚡ **File .EXE** | [⚡ Tải bản Dev trên GitHub](https://github.com/congthucvietnam/congthucviet/releases) |
 
-> **Yêu cầu hệ thống:**
-> - Hệ điều hành: Windows 10 / Windows 11 (64-bit).
-> - Microsoft Office / Word: Word 2013, 2016, 2019, 2021, Office 365 (32-bit & 64-bit).
-> - Trình cài đặt tự động 1-Click: Tự nhận diện Word, tự động cấu hình Add-in và font toán học.
+> 💡 **Mẹo tải về:** Để tránh trình duyệt Google Chrome hoặc Microsoft Edge hiển thị cảnh báo tệp thực thi, Thầy/Cô nên tải file nén **`.rar`** hoặc **`.zip`**, sau đó giải nén ra và chạy file cài đặt!
+
+---
+
+### 📂 Link Tải Dự Phòng Google Drive ThayCoAI (Tốc Độ Cao)
+> 👉 **Bấm vào đây để mở Thư mục Google Drive tải bộ cài:**  
+> 🔗 **[https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing)**  
+> 
+> *(Thư mục đã có sẵn: file nén `.rar`, file nén `.zip` và file chạy `.exe` để Thầy/Cô lựa chọn tải về thuận tiện nhất)*
 
 ---
 
