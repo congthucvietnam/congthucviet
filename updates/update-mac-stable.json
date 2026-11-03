@@ -1,21 +1,21 @@
 {
-    "schema":  "urn:thaycoai:ctv-macos-release:1",
-    "version":  "1.01.20261104",
-    "version_code":  20261104,
-    "channel":  "stable",
-    "platform":  "macos",
-    "minimum_macos":  "12.0",
-    "release_date":  "2026-11-03T07:02:18Z",
-    "installer":  {
-                      "filename":  "CongThucViet-1.01.20261104-macOS.dmg",
-                      "size_bytes":  5772012,
-                      "sha256":  "ab5a0de09d1293d0e7e1617d14eb2c203a3dda76e8932e58cd17136f60ce1f45",
-                      "download_urls":  [
-                                            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.01.20261104/CongThucViet-1.01.20261104-macOS.dmg"
-                                        ]
-                  },
-    "release_manifest":  {
-                             "url":  "https://github.com/congthucvietnam/congthucviet/releases/download/v1.01.20261104/release-manifest.json"
-                         },
-    "notes":  "Cong Thuc Viet v1.01.20261104 (STABLE) danh cho macOS (Apple Silicon \u0026 Intel) - Loi C++17 MathML-to-OMML dat 100% XSLT Parity."
+    "schema": "urn:thaycoai:ctv-macos-release:1",
+    "version": "1.05.20261105",
+    "version_code": 20261105,
+    "channel": "stable",
+    "platform": "macos",
+    "minimum_macos": "12.0",
+    "release_date": "2026-11-04T02:30:00Z",
+    "installer": {
+        "filename": "CongThucViet-1.05.20261105-macOS.dmg",
+        "size_bytes": 8977933,
+        "sha256": "f8aad1ca3eda1f57100cdd00d56ade9a2020c7815fbffa54394dfa90015c67f2",
+        "download_urls": [
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.05.20261105/CongThucViet-1.05.20261105-macOS.dmg"
+        ]
+    },
+    "release_manifest": {
+        "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v1.05.20261105/release-manifest.json"
+    },
+    "notes": "Cong Thuc Viet v1.05.20261105 (STABLE) cho macOS (Apple Silicon & Intel) - Ho tro bo cai keo tha Universal, Loi C++17 MathML-to-OMML dat 100% XSLT Parity, GeoGebra Studio & SVG GDPT 2018."
 }
