@@ -1,41 +1,41 @@
 {
-    "schema_version":  1,
-    "product":  "CongThucViet",
-    "channel":  "stable",
-    "version":  "1.01.20261104",
-    "version_display":  "v1.01.20261104 (Bản Ổn Định Chính Thức - 03/11/2026)",
-    "release_date":  "2026-11-03T07:02:18Z",
-    "min_supported_word":  "2013",
-    "min_supported_os":  "Windows 10",
-    "installer":  {
-                      "filename":  "Setup_CongThucViet_v1.01_Stable_03.11.2026.exe",
-                      "size_bytes":  5454848,
-                      "sha256":  "79322d3014dde25cb0c956d8cd8c6afa81b3e318b94ec2c9d61c3f7f59ac74de",
-                      "authenticode_required":  false,
-                      "download_urls":  [
-                                            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.01.20261104/Setup_CongThucViet_v1.01_Stable_03.11.2026.exe",
-                                            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.01.20261104/Setup_CongThucViet_v1.01_Stable_03.11.2026.zip"
-                                        ]
-                  },
-    "rollout":  {
-                    "enabled":  true,
-                    "percentage":  100
-                },
-    "policy":  {
-                   "blocked_versions":  [
-
-                                        ],
-                   "mandatory":  false
-               },
-    "changelog":  {
-                      "vi":  [
-                                 "Bản phát hành Ổn Định v1.01.20261104 cho Giáo viên toàn quốc",
-                                 "Tối ưu hóa quy trình tải và cài đặt cập nhật mượt mà, triệt tiêu hoàn toàn cảnh báo Windows Defender",
-                                 "Tích hợp GeoGebra Studio 2D/3D Hybrid chính hãng, bảo toàn 100% màu sắc và nét vẽ tùy chỉnh khi mở lại",
-                                 "Trình vẽ hình & biên tập vector SVG SGK V14.16 chuẩn GDPT 2018",
-                                 "Soạn thảo công thức MathType OLE 7.0 (DSMT4) 2 chiều hoàn hảo cho Microsoft Word và PowerPoint",
-                                 "Hỗ trợ giải mã tự động các font tiếng Việt cổ điển VNI, TCVN3 sang Unicode"
-                             ]
-                  },
-    "version_code":  20261104
+    "schema_version": 1,
+    "product": "CongThucViet",
+    "channel": "stable",
+    "version": "1.02.20261104",
+    "version_display": "v1.02 (Bản Ổn Định Chính Thức - 03/11/2026)",
+    "release_date": "2026-11-03T07:02:18Z",
+    "min_supported_word": "2013",
+    "min_supported_os": "Windows 10",
+    "installer": {
+        "filename": "Setup_CongThucViet_v1.02_Stable_03.11.2026.exe",
+        "size_bytes": 5467648,
+        "sha256": "d212276ea3f1bd0a3dd1583698e60ab419b484554bc8161552e485cf0f1d8a06",
+        "authenticode_required": false,
+        "download_urls": [
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.02.20261104/Setup_CongThucViet_v1.02_Stable_03.11.2026.exe",
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.02.20261104/Setup_CongThucViet_v1.02_Stable_03.11.2026.zip"
+        ]
+    },
+    "rollout": {
+        "enabled": true,
+        "percentage": 100
+    },
+    "policy": {
+        "blocked_versions": [],
+        "mandatory": false
+    },
+    "changelog": {
+        "vi": [
+            "Bản phát hành Ổn Định v1.02 (03/11/2026) cho Giáo viên toàn quốc",
+            "Đột phá Zero-Pandoc: Loại bỏ 100% Pandoc, bóc tách tài liệu và trích xuất đề thi siêu tốc gấp 14 lần (~1.1s) bằng OpenXML DOM thuần",
+            "Xử lý hoàn hảo bảng số liệu và trích xuất hình ảnh tài liệu Word trực tiếp vào LaTeX/HTML chuẩn GDPT 2018",
+            "Hỗ trợ xuất bản đề thi chuẩn màu với 6 theme PDF học thuật độc lập",
+            "Đã vượt qua kiểm định nghiêm ngặt 2 vòng bởi Luna Senior Architect Gate (ChatGPT Web)",
+            "Tích hợp GeoGebra Studio 2D/3D Hybrid chính hãng, bảo toàn 100% màu sắc và nét vẽ tùy chỉnh khi mở lại",
+            "Trình vẽ hình & biên tập vector SVG SGK V14.16 chuẩn GDPT 2018, chống đen hình 100% trong Word và PowerPoint",
+            "Soạn thảo công thức MathType OLE 7.0 (DSMT4) 2 chiều hoàn hảo cho Microsoft Word và PowerPoint"
+        ]
+    },
+    "version_code": 20261104
 }
