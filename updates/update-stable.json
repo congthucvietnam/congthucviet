@@ -5,13 +5,13 @@
     "version": "1.05.20261105",
     "version_display": "v1.05 (Bản Ổn Định Chính Thức - 05/11/2026)",
     "version_code": 20261105,
-    "release_date": "2026-11-04T02:30:00Z",
+    "release_date": "2026-11-03T20:19:59Z",
     "min_supported_word": "2013",
     "min_supported_os": "Windows 10",
     "installer": {
         "filename": "Setup_CongThucViet_v1.05_Stable_05.11.2026.exe",
-        "size_bytes": 5467648,
-        "sha256": "d212276ea3f1bd0a3dd1583698e60ab419b484554bc8161552e485cf0f1d8a06",
+        "size_bytes": 5498368,
+        "sha256": "5bfa1c27fc9b227fd78ba67152519d58e500bd896b72e0dcddcff2ba6a91645d",
         "authenticode_required": false,
         "download_urls": [
             "https://github.com/congthucvietnam/congthucviet/releases/download/v1.05.20261105/Setup_CongThucViet_v1.05_Stable_05.11.2026.exe",
@@ -28,7 +28,7 @@
     },
     "changelog": {
         "vi": [
-            "Bản phát hành Ổn Định v1.05 (05/11/2026) cho Giáo viên toàn quốc",
+            "Bản phát hành Ổn Định v1.05.20261105 cho Giáo viên toàn quốc",
             "Đột phá Zero-Pandoc: Loại bỏ 100% Pandoc, bóc tách tài liệu và trích xuất đề thi siêu tốc gấp 14 lần (~1.1s) bằng OpenXML DOM thuần",
             "Xử lý hoàn hảo bảng số liệu và trích xuất hình ảnh tài liệu Word trực tiếp vào LaTeX/HTML chuẩn GDPT 2018",
             "Hỗ trợ xuất bản đề thi chuẩn màu với 6 theme PDF học thuật độc lập",
