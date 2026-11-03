@@ -1,0 +1,21 @@
+{
+  "schema": "urn:thaycoai:ctv-macos-release:1",
+  "version": "1.0.20261103",
+  "version_code": 20261103,
+  "channel": "stable",
+  "platform": "macos",
+  "minimum_macos": "12.0",
+  "release_date": "2026-11-03T11:00:00Z",
+  "installer": {
+    "filename": "CongThucViet-1.0.20261103-macOS.dmg",
+    "size_bytes": 5772012,
+    "sha256": "ab5a0de09d1293d0e7e1617d14eb2c203a3dda76e8932e58cd17136f60ce1f45",
+    "download_urls": [
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/CongThucViet-1.0.20261103-macOS.dmg"
+    ]
+  },
+  "release_manifest": {
+    "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/release-manifest.json"
+  },
+  "notes": "Công Thức Việt v1.0.20261103 (Bản Ổn Định) dành cho macOS (Apple Silicon & Intel) - Tương thích Word for Mac & Word 365."
+}
