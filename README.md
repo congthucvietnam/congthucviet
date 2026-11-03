@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Phần mềm soạn thảo công thức Toán học chuẩn GDPT 2018 & Studio Trợ lý AI Soạn Đề Thi cho Microsoft Word & PowerPoint</b><br>
-  <i>Tương thích 100% MathType OLE 7.0 (DSMT4) • Dựng hình GeoGebra Studio 2D/3D • Soạn thảo LaTeX trực quan • Đa nền tảng Windows & macOS</i>
+  <i>Tương thích định dạng OLE Equation.DSMT4 kinh điển • Dựng hình GeoGebra Studio 2D/3D • Soạn thảo LaTeX trực quan • Đa nền tảng Windows & macOS</i>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Phần mềm được phát hành với **duy nhất một bản Ổn Định (S
 
 ## ✨ TÍNH NĂNG NỔI BẬT
 
-- 🧮 **Tương thích 100% MathType OLE 7.0 (DSMT4):** Chèn công thức chuẩn Word OLE, nhấp đúp để sửa, phím tắt **Alt + Q** chuyển đổi TeX tức thì, không bao giờ bị méo chữ, lệch dòng (baseline) hay đen hình khi in ấn.
+- 🧮 **Tương thích định dạng OLE Equation (DSMT4) kinh điển:** Chèn công thức chuẩn Word OLE, nhấp đúp để sửa, phím tắt **Alt + Q** chuyển đổi TeX tức thì, không bao giờ bị méo chữ, lệch dòng (baseline) hay đen hình khi in ấn.
 - 📐 **GeoGebra Studio 2D/3D Hybrid chính hãng:**
   - Dựng hình học phẳng 2D và không gian 3D tương tác mượt mà bằng engine GeoGebra chính hãng.
   - Tự động nhận diện góc vuông, căn lề và hỗ trợ kịch bản GGBScript.
@@ -90,7 +90,8 @@ Kho lưu trữ này là **Cổng tiếp nhận phản hồi và phát hành chí
 
 ---
 
-## 📜 Bản Quyền & Tác Quyền
+## 📜 Bản Quyền & Tuyên Bố Miễn Trừ Thương Hiệu
 
 - Bản quyền phần mềm © 2026 thuộc về **Công Thức Việt (ThayCoAI)**.
-- Mọi quyền được bảo lưu. Phần mềm được phân phối miễn phí hỗ trợ Thầy/Cô giáo viên Việt Nam.
+- Phần mềm giáo dục độc lập được phân phối miễn phí hỗ trợ Thầy/Cô giáo viên và học sinh Việt Nam.
+- *Tuyên bố miễn trừ thương hiệu*: MathType, Microsoft Word, PowerPoint, GeoGebra và các nhãn hiệu liên quan là nhãn hiệu đã đăng ký của các chủ sở hữu tương ứng. Công Thức Việt là giải pháp công nghệ giáo dục độc lập, tương thích các chuẩn tài liệu mở và định dạng OLE Equation.DSMT4 tiêu chuẩn công nghiệp nhằm phục vụ công tác giảng dạy và học tập.
