@@ -5,7 +5,7 @@
     "channel": "stable",
     "platform": "macos",
     "minimum_macos": "12.0",
-    "release_date": "2026-11-10T20:10:00Z",
+    "release_date": "2026-11-10T13:23:04Z",
     "installer": {
         "filename": "CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg",
         "size_bytes": 17608111,
@@ -17,5 +17,10 @@
     "release_manifest": {
         "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/release-manifest.json"
     },
-    "notes": "Cong Thuc Viet v0.01.20261111 cho macOS (Apple Silicon & Intel) - Sửa lỗi lưu hình SVG/GeoGebra, router chọn tab chính xác, 100% Zero-Pandoc Native Engine."
+    "code_signing": {
+        "developer_id": false,
+        "notarized": false,
+        "requires_open_anyway": true
+    },
+    "notes": "Cong Thuc Viet v0.01.20261111 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de luu hinh SVG & GeoGebra."
 }
