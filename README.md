@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/congthucvietnam/congthucviet/releases/latest"><img src="https://img.shields.io/badge/B%E1%BA%A3n%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh-v1.0.20261103-2ea44f?logo=windows" alt="Stable Release"></a>
+  <a href="https://github.com/congthucvietnam/congthucviet/releases/latest"><img src="https://img.shields.io/badge/B%E1%BA%A3n%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh-v0.01.20261111-2ea44f?logo=windows" alt="Stable Release"></a>
   <a href="https://github.com/congthucvietnam/congthucviet/releases/latest"><img src="https://img.shields.io/badge/macOS-Apple_Silicon_%26_Intel-blue?logo=apple" alt="macOS Release"></a>
   <a href="https://github.com/congthucvietnam/congthucviet/issues"><img src="https://img.shields.io/github/issues/congthucvietnam/congthucviet?color=0284c7" alt="Issues"></a>
   <a href="https://github.com/congthucvietnam/congthucviet/discussions"><img src="https://img.shields.io/github/discussions/congthucvietnam/congthucviet?color=8b5cf6" alt="Discussions"></a>
@@ -20,16 +20,16 @@
 
 ## 📥 TẢI VỀ CÀI ĐẶT DÀNH CHO GIÁO VIÊN (SINGLE STABLE DOWNLOAD)
 
-Phần mềm được phát hành với **duy nhất một bản Ổn Định (Single Stable Edition)** — không chia tách kênh phát triển phức tạp, không làm phiền thầy cô bằng thông báo cập nhật liên tục, đảm bảo độ tin cậy và tiện dụng tối đa trong suốt các tiết dạy trên lớp.
+Phần mềm được phát hành với **duy nhất một bản Ổn Định (Single Stable Edition)** — không chia tách kênh phát triển phức tạp, tự động khóa ẩn các menu thử nghiệm dở dang, đảm bảo độ tin cậy và tiện dụng tối đa trong suốt các tiết dạy trên lớp.
 
 ### 🖥️ 1. Dành Cho Windows (Word & PowerPoint 2016 / 2019 / 2021 / Office 365)
 
 | Tên Tệp Phát Hành | Định Dạng | Dung Lượng | Tải Về Trực Tiếp |
 | :--- | :---: | :---: | :--- |
-| **`Setup_CongThucViet_v1.0_Stable_03.11.2026.exe`** | Bản cài đặt 1-Click | ~5.20 MB | [👉 Tải trên GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/Setup_CongThucViet_v1.0_Stable_03.11.2026.exe)<br>🚀 [Tải từ Google Drive ThayCoAI](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
-| **`Setup_CongThucViet_v1.0_Stable_03.11.2026.zip`** | Tệp nén dự phòng | ~5.13 MB | [👉 Tải file .ZIP từ GitHub](https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/Setup_CongThucViet_v1.0_Stable_03.11.2026.zip)<br>🚀 [Tải từ Google Drive ThayCoAI](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
+| **`Setup_CongThucViet_v0.01_Stable_11.11.2026.exe`** | Bản cài đặt 1-Click | ~5.65 MB | [👉 Tải trên GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.exe)<br>🚀 [Tải từ Google Drive ThayCoAI](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
+| **`Setup_CongThucViet_v0.01_Stable_11.11.2026.zip`** | Tệp nén dự phòng | ~5.59 MB | [👉 Tải file .ZIP từ GitHub](https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.zip)<br>🚀 [Tải từ Google Drive ThayCoAI](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
 
-> 💡 **Mẹo tải về:** Để tránh trình duyệt Google Chrome hoặc Microsoft Edge hiển thị cảnh báo tệp `.exe`, Thầy/Cô có thể tải file nén **`.zip`**, sau đó nhấp đúp để mở và chạy cài đặt!
+> 💡 **Mẹo tải về:** Để tránh trình duyệt Google Chrome hoặc Microsoft Edge hiển thị cảnh báo khi tải tệp `.exe`, Thầy/Cô có thể tải file nén **`.zip`**, sau đó nhấp đúp để mở và chạy cài đặt!
 
 ---
 
@@ -37,8 +37,8 @@ Phần mềm được phát hành với **duy nhất một bản Ổn Định (S
 
 | Tên Tệp Phát Hành | Định Dạng | Dung Lượng | Tải Về Trực Tiếp |
 | :--- | :---: | :---: | :--- |
-| **`CongThucViet-1.0.20261103-macOS.dmg`** | Ảnh đĩa cài đặt Apple | ~5.50 MB | [👉 Tải DMG từ GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/CongThucViet-1.0.20261103-macOS.dmg)<br>🚀 [Tải từ Google Drive ThayCoAI](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
-| **`CongThucViet-1.0.20261103-macOS.dmg.sha256`** | Mã kiểm tra toàn vẹn | 102 Bytes | [Tải file checksum SHA-256](https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/CongThucViet-1.0.20261103-macOS.dmg.sha256) |
+| **`CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg`** | Bộ cài Universal DMG | ~16.8 MB | [👉 Tải DMG từ GitHub Releases](https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg)<br>🚀 [Tải từ Google Drive ThayCoAI](https://drive.google.com/drive/folders/19f4RXibgM_khumnxPXomeLdbzhabMqe0?usp=sharing) |
+| **`CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg.sha256`** | Mã kiểm tra toàn vẹn | 121 Bytes | [Tải file checksum SHA-256](https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg.sha256) |
 
 ---
 
@@ -68,14 +68,15 @@ Phần mềm được phát hành với **duy nhất một bản Ổn Định (S
 ## 🛠️ Hướng Dẫn Cài Đặt 1-Click
 
 ### Trên Windows:
-1. Tải file `Setup_CongThucViet_v1.0_Stable_03.11.2026.exe` từ bảng tải về ở trên.
+1. Tải file `Setup_CongThucViet_v0.01_Stable_11.11.2026.exe` từ bảng tải về ở trên.
 2. Đóng Microsoft Word và PowerPoint trước khi cài đặt.
-3. Chạy file `Setup_CongThucViet_v1.0_Stable_03.11.2026.exe` ➔ Bấm **Cài đặt**.
+3. Chạy file `Setup_CongThucViet_v0.01_Stable_11.11.2026.exe` ➔ Bấm **Cài đặt**.
 4. Mở Word hoặc PowerPoint, Thầy/Cô sẽ thấy tab **CÔNG THỨC VIỆT** xuất hiện sẵn sàng trên thanh Ribbon!
 
 ### Trên macOS:
-1. Tải file `CongThucViet-1.0.20261103-macOS.dmg`.
+1. Tải file `CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg`.
 2. Mở file DMG và kéo ứng dụng vào thư mục Applications.
+3. Ở lần mở đầu tiên, chọn chuột phải ➔ **Open** (hoặc vào *System Settings → Privacy & Security → Open Anyway*) để cấp quyền hoạt động.
 
 ---
 
