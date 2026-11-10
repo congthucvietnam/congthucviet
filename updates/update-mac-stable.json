@@ -1,21 +1,21 @@
 {
     "schema": "urn:thaycoai:ctv-macos-release:1",
-    "version": "1.05.20261105",
-    "version_code": 20261105,
+    "version": "0.01.20261111",
+    "version_code": 20261111,
     "channel": "stable",
     "platform": "macos",
     "minimum_macos": "12.0",
-    "release_date": "2026-11-03T20:19:59Z",
+    "release_date": "2026-11-10T20:10:00Z",
     "installer": {
-        "filename": "CongThucViet-1.05.20261105-macOS.dmg",
-        "size_bytes": 8977933,
-        "sha256": "f8aad1ca3eda1f57100cdd00d56ade9a2020c7815fbffa54394dfa90015c67f2",
+        "filename": "CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg",
+        "size_bytes": 17608111,
+        "sha256": "41b051e5f69372c34bdc20bc0b0a11437adb8f6403af95682d945e583ef9e9f6",
         "download_urls": [
-            "https://github.com/congthucvietnam/congthucviet/releases/download/v1.05.20261105/CongThucViet-1.05.20261105-macOS.dmg"
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg"
         ]
     },
     "release_manifest": {
-        "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v1.05.20261105/release-manifest.json"
+        "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/release-manifest.json"
     },
-    "notes": "Cong Thuc Viet v1.05.20261105 (STABLE) cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal nhe ~8.9MB, Loi C++17 MathML-to-OMML dat 100% XSLT Parity, GeoGebra Studio & SVG GDPT 2018."
+    "notes": "Cong Thuc Viet v0.01.20261111 cho macOS (Apple Silicon & Intel) - Sửa lỗi lưu hình SVG/GeoGebra, router chọn tab chính xác, 100% Zero-Pandoc Native Engine."
 }
