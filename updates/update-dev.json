@@ -5,7 +5,7 @@
     "version": "0.01.20261111",
     "version_display": "v0.01 (Bản Ổn Định Chính Thức - 11/11/2026)",
     "version_code": 20261111,
-    "release_date": "2026-11-11T12:59:01Z",
+    "release_date": "2026-11-11T16:03:05Z",
     "min_supported_word": "2013",
     "min_supported_os": "Windows 10",
     "installer": {
@@ -29,7 +29,7 @@
     "changelog": {
         "vi": [
             "Bản phát hành Ổn Định v0.01.20261111 cho Giáo viên toàn quốc",
-            "Tối ưu hóa Batch Conversion Studio: Chọn đa thư mục, bộ đệm liên file, OpenXML thuần siêu tốc",
+            "Tối ưu hóa Batch Conversion Studio: Chọn đa thư mục (Windows Shell Native COM IFileOpenDialog)",
             "Đột phá Zero-Pandoc: Bóc tách tài liệu và trích xuất đề thi siêu tốc bằng OpenXML DOM thuần",
             "Tích hợp GeoGebra Studio 2D/3D Hybrid chính hãng, bảo toàn 100% màu sắc và nét vẽ",
             "Trình vẽ hình & biên tập vector SVG SGK chuẩn GDPT 2018",
