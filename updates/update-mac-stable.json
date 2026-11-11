@@ -1,26 +1,27 @@
 {
-    "schema": "urn:thaycoai:ctv-macos-release:1",
-    "version": "0.01.20261111",
-    "version_code": 20261111,
-    "channel": "stable",
-    "platform": "macos",
-    "minimum_macos": "12.0",
-    "release_date": "2026-11-10T13:23:04Z",
-    "installer": {
-        "filename": "CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg",
-        "size_bytes": 17608111,
-        "sha256": "41b051e5f69372c34bdc20bc0b0a11437adb8f6403af95682d945e583ef9e9f6",
-        "download_urls": [
-            "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg"
-        ]
-    },
-    "release_manifest": {
-        "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/release-manifest.json"
-    },
-    "code_signing": {
-        "developer_id": false,
-        "notarized": false,
-        "requires_open_anyway": true
-    },
-    "notes": "Cong Thuc Viet v0.01.20261111 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de luu hinh SVG & GeoGebra."
+  "schema": "urn:thaycoai:ctv-macos-release:1",
+  "version": "0.01.20261111",
+  "version_code": 20261109,
+  "channel": "stable",
+  "platform": "macos",
+  "minimum_macos": "12.0",
+  "release_date": "2026-11-10T13:23:04Z",
+  "installer": {
+    "filename": "CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg",
+    "size_bytes": 17608111,
+    "sha256": "41b051e5f69372c34bdc20bc0b0a11437adb8f6403af95682d945e583ef9e9f6",
+    "download_urls": [
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg"
+    ]
+  },
+  "release_manifest": {
+    "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/release-manifest.json"
+  },
+  "code_signing": {
+    "developer_id": false,
+    "notarized": false,
+    "requires_open_anyway": true
+  },
+  "notes": "Cong Thuc Viet v0.01.20261111 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de luu hinh SVG & GeoGebra.",
+  "compatibility_note": "Temporary effective version code for the published DMG whose installed VERSION receipt is 1.06.20261109. Keep the advertised release and installer checksum unchanged. Restore normal increasing version codes with the next verified build."
 }
