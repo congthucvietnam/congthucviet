@@ -1,20 +1,21 @@
 {
   "schema_version": 1,
   "product": "CongThucViet",
-  "channel": "stable",
-  "version": "1.0.20261103",
-  "version_display": "v1.0.20261103 (Bản Ổn Định Chính Thức - 03/11/2026)",
-  "version_code": 20261103,
-  "release_date": "2026-11-03T11:00:00Z",
+  "channel": "dev",
+  "version": "0.01.20261111",
+  "version_display": "v0.01 (Bản Ổn Định Chính Thức - 11/11/2026)",
+  "version_code": 20261111,
+  "release_date": "2026-11-10T13:38:53Z",
   "min_supported_word": "2013",
   "min_supported_os": "Windows 10",
   "installer": {
-    "filename": "Setup_CongThucViet_v1.0_Stable_03.11.2026.exe",
-    "size_bytes": 5451776,
-    "sha256": "1c17a7284d9680292e567ffec5e1efe740cea4f458deb9050e18e3d9a64415c7",
+    "filename": "Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
+    "size_bytes": 5923328,
+    "sha256": "d29b13739dbb7a667395bdf508055d9fa7ca76fab7edbe28b12def4ec1a49500",
     "authenticode_required": false,
     "download_urls": [
-      "https://github.com/congthucvietnam/congthucviet/releases/download/v1.0.20261103/Setup_CongThucViet_v1.0_Stable_03.11.2026.exe"
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.zip"
     ]
   },
   "rollout": {
@@ -23,14 +24,13 @@
   },
   "policy": {
     "blocked_versions": [],
-    "mandatory": false
+    "mandatory": true
   },
   "changelog": {
     "vi": [
-      "Chuyển toàn bộ người dùng về Bản Ổn Định Duy Nhất v1.0.20261103 chính thức ngày 03/11/2026",
-      "Tích hợp GeoGebra Studio 2D/3D Hybrid chính hãng, bảo toàn 100% màu sắc và nét vẽ tùy chỉnh khi mở lại",
-      "Trình vẽ hình & biên tập vector SVG SGK V14.16 chuẩn GDPT 2018",
-      "Soạn thảo công thức MathType OLE 7.0 (DSMT4) 2 chiều hoàn hảo cho Microsoft Word và PowerPoint"
+      "Chuyển toàn bộ người dùng về Bản Ổn Định v0.01.20261111 chính thức",
+      "Tự động khóa ẩn các menu thử nghiệm dở dang (Nhóm 5) trên Ribbon giáo viên",
+      "Đột phá Zero-Pandoc: Bóc tách tài liệu và trích xuất đề thi siêu tốc bằng OpenXML DOM thuần"
     ]
   }
 }
