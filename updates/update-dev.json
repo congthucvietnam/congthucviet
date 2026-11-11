@@ -1,36 +1,39 @@
 {
-  "schema_version": 1,
-  "product": "CongThucViet",
-  "channel": "dev",
-  "version": "0.01.20261111",
-  "version_display": "v0.01 (Bản Ổn Định Chính Thức - 11/11/2026)",
-  "version_code": 20261111,
-  "release_date": "2026-11-10T13:38:53Z",
-  "min_supported_word": "2013",
-  "min_supported_os": "Windows 10",
-  "installer": {
-    "filename": "Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
-    "size_bytes": 5923328,
-    "sha256": "d29b13739dbb7a667395bdf508055d9fa7ca76fab7edbe28b12def4ec1a49500",
-    "authenticode_required": false,
-    "download_urls": [
-      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
-      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.zip"
-    ]
-  },
-  "rollout": {
-    "enabled": true,
-    "percentage": 100
-  },
-  "policy": {
-    "blocked_versions": [],
-    "mandatory": true
-  },
-  "changelog": {
-    "vi": [
-      "Chuyển toàn bộ người dùng về Bản Ổn Định v0.01.20261111 chính thức",
-      "Tự động khóa ẩn các menu thử nghiệm dở dang (Nhóm 5) trên Ribbon giáo viên",
-      "Đột phá Zero-Pandoc: Bóc tách tài liệu và trích xuất đề thi siêu tốc bằng OpenXML DOM thuần"
-    ]
-  }
+    "schema_version": 1,
+    "product": "CongThucViet",
+    "channel": "dev",
+    "version": "0.01.20261111",
+    "version_display": "v0.01 (Bản Ổn Định Chính Thức - 11/11/2026)",
+    "version_code": 20261111,
+    "release_date": "2026-11-11T10:06:27Z",
+    "min_supported_word": "2013",
+    "min_supported_os": "Windows 10",
+    "installer": {
+        "filename": "Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
+        "size_bytes": 5931008,
+        "sha256": "7a5130947e08144e3b241bcd31d3f2b82dd10ec96e9dde94a97420c31f3ad41a",
+        "authenticode_required": false,
+        "download_urls": [
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.zip"
+        ]
+    },
+    "rollout": {
+        "enabled": true,
+        "percentage": 100
+    },
+    "policy": {
+        "blocked_versions": [],
+        "mandatory": true
+    },
+    "changelog": {
+        "vi": [
+            "Bản phát hành Ổn Định v0.01.20261111 cho Giáo viên toàn quốc",
+            "Tối ưu hóa Batch Conversion Studio: Chọn đa thư mục, bộ đệm liên file, OpenXML thuần siêu tốc",
+            "Đột phá Zero-Pandoc: Bóc tách tài liệu và trích xuất đề thi siêu tốc bằng OpenXML DOM thuần",
+            "Tích hợp GeoGebra Studio 2D/3D Hybrid chính hãng, bảo toàn 100% màu sắc và nét vẽ",
+            "Trình vẽ hình & biên tập vector SVG SGK chuẩn GDPT 2018",
+            "Soạn thảo công thức MathType OLE 7.0 (DSMT4) 2 chiều hoàn hảo cho Word và PowerPoint"
+        ]
+    }
 }
