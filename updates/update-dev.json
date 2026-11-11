@@ -5,13 +5,13 @@
     "version": "0.01.20261111",
     "version_display": "v0.01 (Bản Ổn Định Chính Thức - 11/11/2026)",
     "version_code": 20261111,
-    "release_date": "2026-11-11T10:06:27Z",
+    "release_date": "2026-11-11T11:13:11Z",
     "min_supported_word": "2013",
     "min_supported_os": "Windows 10",
     "installer": {
         "filename": "Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
         "size_bytes": 5931008,
-        "sha256": "7a5130947e08144e3b241bcd31d3f2b82dd10ec96e9dde94a97420c31f3ad41a",
+        "sha256": "38f9942fe6c353e58b9acc708c2239fe2c04c2aa37f08151403559c48dbd190c",
         "authenticode_required": false,
         "download_urls": [
             "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/Setup_CongThucViet_v0.01_Stable_11.11.2026.exe",
