@@ -1,17 +1,17 @@
 {
   "schema": "urn:thaycoai:ctv-macos-release:1",
-  "version": "0.01.20261111",
-  "version_code": 20261109,
+  "version": "0.02.20261111",
+  "version_code": 20261111,
   "channel": "stable",
   "platform": "macos",
   "minimum_macos": "12.0",
-  "release_date": "2026-11-10T13:23:04Z",
+  "release_date": "2026-11-11T16:03:05Z",
   "installer": {
-    "filename": "CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg",
-    "size_bytes": 17608111,
-    "sha256": "41b051e5f69372c34bdc20bc0b0a11437adb8f6403af95682d945e583ef9e9f6",
+    "filename": "CongThucViet-0.02.20261111-macOS-unsigned-internal.dmg",
+    "size_bytes": 17601002,
+    "sha256": "dc09d827579391e452bd67fe4c91a0b0cbc47768ca66d471bc919fc5e1b899fc",
     "download_urls": [
-      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.01.20261111-macOS-unsigned-internal.dmg"
+      "https://github.com/congthucvietnam/congthucviet/releases/download/v0.01.20261111/CongThucViet-0.02.20261111-macOS-unsigned-internal.dmg"
     ]
   },
   "release_manifest": {
@@ -22,6 +22,6 @@
     "notarized": false,
     "requires_open_anyway": true
   },
-  "notes": "Cong Thuc Viet v0.01.20261111 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de luu hinh SVG & GeoGebra.",
-  "compatibility_note": "Temporary effective version code for the published DMG whose installed VERSION receipt is 1.06.20261109. Keep the advertised release and installer checksum unchanged. Restore normal increasing version codes with the next verified build."
+  "notes": "Cong Thuc Viet v0.02.20261111 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de bao loi cap nhat.",
+  "compatibility_note": "Bản phát hành chính thức 0.02.20261111 đồng bộ version nhúng arm64 và x86_64."
 }
