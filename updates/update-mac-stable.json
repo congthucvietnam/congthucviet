@@ -1,26 +1,26 @@
 {
     "schema": "urn:thaycoai:ctv-macos-release:1",
-    "version": "0.04.20261113",
+    "version": "0.05.20261113",
     "version_code": 20261113,
     "channel": "stable",
     "platform": "macos",
     "minimum_macos": "12.0",
-    "release_date": "2026-11-13T07:14:32Z",
+    "release_date": "2026-11-13T20:03:38Z",
     "installer": {
-        "filename": "CongThucViet-0.04.20261113-macOS-unsigned-internal.dmg",
-        "size_bytes": 17643129,
-        "sha256": "7e5e9861282bc9fb776d36087a801f1d9d9b4f4ca821bb25b334b33be797943b",
+        "filename": "CongThucViet-0.05.20261113-macOS-unsigned-internal.dmg",
+        "size_bytes": 17654961,
+        "sha256": "0f3c20a32de9726dc80441d69cfcbc7f40d377529754c45909860a5342073e80",
         "download_urls": [
-            "https://github.com/congthucvietnam/congthucviet/releases/download/v0.04.20261113/CongThucViet-0.04.20261113-macOS-unsigned-internal.dmg"
+            "https://github.com/congthucvietnam/congthucviet/releases/download/v0.05.20261113/CongThucViet-0.05.20261113-macOS-unsigned-internal.dmg"
         ]
     },
     "release_manifest": {
-        "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v0.04.20261113/release-manifest.json"
+        "url": "https://github.com/congthucvietnam/congthucviet/releases/download/v0.05.20261113/release-manifest.json"
     },
     "code_signing": {
         "developer_id": false,
         "notarized": false,
         "requires_open_anyway": true
     },
-    "notes": "Cong Thuc Viet v0.04.20261113 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de luu hinh SVG & GeoGebra."
+    "notes": "Cong Thuc Viet v0.05.20261113 cho macOS (Apple Silicon & Intel) - Bo cai keo-tha Universal ~17.6MB, Zero-Pandoc Native Engine, sua triet de luu hinh SVG & GeoGebra."
 }
